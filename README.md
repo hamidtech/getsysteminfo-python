@@ -60,7 +60,10 @@ The script includes robust error handling, particularly for external command exe
 The script generates two files:
 - **Text file**: Detailed system information in a readable format.
 - **CSV file**: Same information in a tabular format suitable for importing into spreadsheets.
+## Support
 
-## Conclusion
-This script provides a convenient way to gather and document essential system information on Windows OS, aiding in tasks such as system audits, troubleshooting, and inventory management.
+For any queries or issues, please open an issue in this repository or contact [hamid1375jamali@gmail](hamid1375jamali@gmail.com) :)
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
