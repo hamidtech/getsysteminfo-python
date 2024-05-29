@@ -1,13 +1,13 @@
 
-### Windows 7 Compatible System and above Information Script
+### Windows 7 and above Compatible System Information Script (Windows 7 - Windows 8 - Windows 10 - Windows 11)
 
-# System Information Script for Windows 7
+# System Information Script for Windows 7 and above
 
 ## Overview
 This Python script is designed to collect and export detailed system information, making it ideal for use in environments like Windows 7 where certain modern functionalities might be limited. The script retrieves processor details, RAM capacity, and storage device information, outputting the data to both a text file and a CSV file for easy review and reporting.
 
 ## Requirements
-- Python 3.4 or newer (Tested on Python 3.8 and Python 3.12)
+- Python 3.8 or newer (Tested on Python 3.8 and Python 3.12)
 - Subprocess and psutil libraries installed
 
 ## Features
@@ -17,7 +17,7 @@ This Python script is designed to collect and export detailed system information
 
 ## Installation
 To run this script, ensure Python and the required libraries (`psutil`) are installed on your Windows 7 machine. Install psutil using pip:
-```bash
+```python
 pip install psutil
 ```
 
@@ -26,14 +26,16 @@ pip install psutil
 2. Open a command prompt.
 3. Navigate to the directory containing the script.
 4. Run the script by entering:
+
 ```bash
-python script_name.py
+python systeminfo.py
 ```
 5. Follow the on-screen prompts to input required information such as the user's email and branch name.
 
 ## Script Details
 
 ### Import Statements
+
 ```python
 import os
 import subprocess
