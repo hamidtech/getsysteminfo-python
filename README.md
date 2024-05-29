@@ -7,7 +7,7 @@
 This Python script is designed to collect and export detailed system information, making it ideal for use in environments like Windows 7 where certain modern functionalities might be limited. The script retrieves processor details, RAM capacity, and storage device information, outputting the data to both a text file and a CSV file for easy review and reporting.
 
 ## Requirements
-- Python 3.4 or newer (Tested on Python 3.6)
+- Python 3.4 or newer (Tested on Python 3.8 and Python 3.12)
 - Subprocess and psutil libraries installed
 
 ## Features
