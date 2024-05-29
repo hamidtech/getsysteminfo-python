@@ -1,7 +1,6 @@
 
 ### Windows 7 Compatible System and above Information Script
 
-```markdown
 # System Information Script for Windows 7
 
 ## Overview
